@@ -1,22 +1,22 @@
 Recommended clients:
-         - Vanilla
-         - Optifine
+  - Vanilla
+  - Optifine
 
 
 Neutral clients:
-         - Our roleplay mod pack
+  - Our roleplay mod pack
 
 
 Use at your own risk clients:
-        - PvP clients (such as lunar)
-        - Anything with a non-vanilla mechanic
+  - PvP clients (such as lunar)
+  - Anything with a non-vanilla mechanic
 
 
 Prohibited clients:
-       - Certain forge mods
-       - Certain fabric mods
-       - Client sided anti-cheat blocks
-       - Anything that gives you a significant advantage over the other players.
+  - Certain forge mods
+  - Certain fabric mods
+  - Client sided anti-cheat blocks
+  - Anything that gives you a significant advantage over the other players.
 
 
 Punishment info:
