@@ -23,7 +23,7 @@ Punishment info:
 
 Recommended clients - Anything mentioned under the "Recommended clients section". There is a low chance of getting punished if using any of these clients, but it could happen. If it happens, then do not hesitate to open a ticket and we will get to it right away.
 
-Neutral clients - The same as "Recommended clients" except these clients are not recommended because there is nothing special about it, or it only changes things on a certain server, etc.
+Neutral clients - The same as "Recommended clients" except these clients are not in the recommended section because there is nothing special about them, or they only change things on a certain server, etc.
 
 Use at own risk clients - If using these clients, staff will not ban you, the anti-cheat could. If you open a ticket about an issue that was created with anything other than the "Recommended clients" or the "Neutral clients" it will be immediately archived.
 
